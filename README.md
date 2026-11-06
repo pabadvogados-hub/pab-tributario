@@ -35,7 +35,7 @@ das parcelas → êxito sobre o desconto efetivo.
 - **As aulas e os modelos originais da Mentoria CRT** (Santos & Soares): é curso pago de terceiros. As teses
   apontam o nome do modelo de origem, mas o arquivo não vem junto.
 - **A lista de leads do PAB**: tem nome de sócios. O motor gera a sua própria lista na sua máquina.
-- Preços: a tabela de honorários ainda está em decisão no PAB. Os valores do painel são só a referência da mentoria.
+- Preços: cada escritório define os seus; o painel mostra só a estrutura (parecer, fixo, êxito, acompanhamento).
 
 ## Requisitos
 
